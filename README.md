@@ -1,9 +1,9 @@
 ![Gambar Bukti](https://raw.githubusercontent.com/KZREVOTICAL/Dorksearch/main/dorking.png)
-<hr></hr>
+##
 - [X] Support Termux
 - [X] Support Android 5
-<hr></hr>
-How to install?
+
+###How to install?
 ```bash
 $ pkg update && pkg upgrade
 $ pkg install git
@@ -14,3 +14,4 @@ $ python setup.py
 $ chmod +x dork
 $ ./dork
 ```
+##
