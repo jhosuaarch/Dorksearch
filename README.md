@@ -1,6 +1,5 @@
 ![Gambar Bukti](https://raw.githubusercontent.com/KZREVOTICAL/Dorksearch/main/dorking.png)
-`
-`
+
 - [X] Support Termux
 - [X] Support Android 5
 
