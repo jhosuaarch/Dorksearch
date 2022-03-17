@@ -1,3 +1,4 @@
+![Gambar Bukti](https://raw.githubusercontent.com/KZREVOTICAL/Dorksearch/main/dorking.png)
 How to install?
 ```bash
 $ pkg update && pkg upgrade
