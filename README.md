@@ -11,3 +11,6 @@ $ python setup.py
 $ ./dork
 ```
 
+[✔] Hanya bisa di Termux
+[✔] Support Android 5
+[X] Kali Linux
