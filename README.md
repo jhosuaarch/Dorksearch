@@ -10,9 +10,8 @@ $ cd Dorksearch
 $ python setup.py
 $ ./dork
 ```
-
-
-
+</br>
+</br>
 - [X] Hanya bisa di Termux
 - [X] Support Android 5
 - [ ] Kali Linux
