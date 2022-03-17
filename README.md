@@ -13,4 +13,4 @@ $ ./dork
 
 - [X] Hanya bisa di Termux
 - [X] Support Android 5
-- [] Kali Linux
+- [ ] Kali Linux
