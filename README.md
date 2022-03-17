@@ -1,8 +1,8 @@
 ![Gambar Bukti](https://raw.githubusercontent.com/KZREVOTICAL/Dorksearch/main/dorking.png)
-
+<hr>
 - [X] Support Termux
 - [X] Support Android 5
-
+<hr>
 How to install?
 ```bash
 $ pkg update && pkg upgrade
