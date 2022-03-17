@@ -1,8 +1,7 @@
 ![Gambar Bukti](https://raw.githubusercontent.com/KZREVOTICAL/Dorksearch/main/dorking.png)
 
-- [X] Hanya bisa di Termux
+- [X] Support Termux
 - [X] Support Android 5
-- [ ] Kali Linux
 
 
 How to install?
