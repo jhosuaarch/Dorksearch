@@ -3,7 +3,7 @@
 - [X] Support Termux
 - [X] Support Android 5
 
-###H ow to install?
+### How to install?
 ```bash
 $ pkg update && pkg upgrade
 $ pkg install git
