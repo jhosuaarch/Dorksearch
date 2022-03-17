@@ -1,5 +1,10 @@
 ![Gambar Bukti](https://raw.githubusercontent.com/KZREVOTICAL/Dorksearch/main/dorking.png)
 
+- [X] Hanya bisa di Termux
+- [X] Support Android 5
+- [ ] Kali Linux
+
+
 How to install?
 ```bash
 $ pkg update && pkg upgrade
@@ -10,7 +15,3 @@ $ cd Dorksearch
 $ python setup.py
 $ ./dork
 ```
-
-- [X] Hanya bisa di Termux
-- [X] Support Android 5
-- [ ] Kali Linux
