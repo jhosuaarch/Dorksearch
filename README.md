@@ -3,7 +3,7 @@
 - [X] Support Termux
 - [X] Support Android 5
 
-###How to install?
+###H ow to install?
 ```bash
 $ pkg update && pkg upgrade
 $ pkg install git
@@ -14,4 +14,3 @@ $ python setup.py
 $ chmod +x dork
 $ ./dork
 ```
-##
