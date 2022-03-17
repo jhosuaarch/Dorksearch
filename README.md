@@ -1,8 +1,7 @@
 ![Gambar Bukti](https://raw.githubusercontent.com/KZREVOTICAL/Dorksearch/main/dorking.png)
-
+<p>
 - [X] Support Termux
 - [X] Support Android 5
-
 
 How to install?
 ```bash
