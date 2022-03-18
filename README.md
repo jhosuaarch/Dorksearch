@@ -8,7 +8,6 @@ $ pkg install python
 $ git clone https://github.com/KZREVOTICAL/Dorksearch
 $ cd Dorksearch
 $ python setup.py
-$ chmod +x dork
 $ ./dork
 ```
 ##
