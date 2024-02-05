@@ -5,7 +5,7 @@
 $ pkg update && pkg upgrade
 $ pkg install git
 $ pkg install python
-$ git clone https://github.com/KZREVOXTICAL/Dorksearch
+$ git clone https://github.com/jhosuaarch/Dorksearch
 $ cd Dorksearch
 $ python setup.py
 $ chmod +x dork
